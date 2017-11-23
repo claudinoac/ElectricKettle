@@ -1,4 +1,4 @@
-update=Ter 21 Nov 2017 01:51:45 BRST
+update=23/11/2017 17:41:10
 version=1
 last_client=kicad
 [pcbnew]
@@ -115,8 +115,6 @@ LibName85=w_vacuum
 LibName86=Xicor
 LibName87=xilinx
 LibName88=Zilog
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -127,3 +125,5 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=47
+[general]
+version=1
