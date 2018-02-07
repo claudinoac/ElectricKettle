@@ -1,4 +1,4 @@
-update=23/11/2017 17:41:10
+update=01/12/2017 09:58:54
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,16 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=47
 [eeschema]
 version=1
 LibDir=
@@ -115,15 +125,16 @@ LibName85=w_vacuum
 LibName86=Xicor
 LibName87=xilinx
 LibName88=Zilog
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=47
+LibName89=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_analog
+LibName90=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_connectors
+LibName91=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_device
+LibName92=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_logic
+LibName93=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_memory
+LibName94=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_microcontrollers
+LibName95=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_opto
+LibName96=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_relay
+LibName97=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_rtx
+LibName98=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_transistor
+LibName99=C:/Users/Aluno/Downloads/kicad-lib-fp-3d-master/library/w_vacuum
 [general]
 version=1
